@@ -12,7 +12,6 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/connect-four-java.git  
 Open the project in your favorite Java IDE (e.g., IntelliJ, Eclipse, VS Code).
 Run the ConnectFour main class.
 Follow the instructions displayed in the console to play the game.
